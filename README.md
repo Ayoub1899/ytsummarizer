@@ -13,7 +13,7 @@ This is a simple web application that takes a YouTube video URL and generates a 
 
 - **Backend:** Flask (Python)
 - **Frontend:** HTML, TailwindCSS, JavaScript
-- **API:** Google API (e.g., YouTube Data API)
+- **API:** Google Developer API, YouTube Transcript API
 
 ## Prerequisites
 
