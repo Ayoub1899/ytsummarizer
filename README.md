@@ -26,8 +26,8 @@ This is a simple web application that takes a YouTube video URL and generates a 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Ayoub1899/ytsummarizer.git
+cd ytsummarizer
 ```
 
 2. Create a virtual environment and activate it:
