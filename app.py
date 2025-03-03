@@ -3,7 +3,7 @@ from main import summarize_youtube_video
 import os
 
 app = Flask(__name__)
-api_key = os.getenv("GOOGLE_API_KEY")
+api_key = os.getenv("GOOGLE_API_KEY") #Create your own environment variable with your own google API key
 
 @app.route('/')
 def index():
