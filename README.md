@@ -2,13 +2,6 @@
 
 This is a simple web application that takes a YouTube video URL and generates a concise summary of its content. The app uses Flask for the backend and a modernized frontend with HTML, TailwindCSS, and JavaScript.
 
-## Features
-
-- Clean and modern user interface
-- Real-time video embedding
-- Elegant loading spinner animation
-- Responsive design
-
 ## Technologies Used
 
 - **Backend:** Flask (Python)
